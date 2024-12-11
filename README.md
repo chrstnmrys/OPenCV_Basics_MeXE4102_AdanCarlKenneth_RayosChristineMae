@@ -1,4 +1,4 @@
-# <p align="center">***PART 1: OpenCV Project Topics***</p>
+# <p align="center">***PART 1: 16 Basic OpenCV Projects***</p>
 
 # <p align="center">***PART 2: Applying Image Blurring Techniques***</p>
 
