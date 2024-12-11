@@ -1,4 +1,6 @@
-# <p align="center">***Applying Image Blurring Techniques***</p>
+# <p align="center">***PART 1: OpenCV Project Topics***</p>
+
+# <p align="center">***PART 2: Applying Image Blurring Techniques***</p>
 
 # I. Introduction
 Briefly describe the problem and its significance in computer vision.
