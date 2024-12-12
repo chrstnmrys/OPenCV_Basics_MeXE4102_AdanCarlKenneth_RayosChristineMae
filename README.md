@@ -19,7 +19,9 @@ Include code, images, and results generated during your project.
 
 # VI. Reference
 
-- Blur Techniques Definition | Encord. (n.d.). https://encord.com/glossary/blur-techniques-definition/#:~:text=Blur%20in%20computer%20vision%20refers,incorrect%20focus%2C%20or%20optical%20limitations.
+- DATASETS: Paintings from 10 different popular artists. (2021, April 11). Kaggle. https://www.kaggle.com/datasets/binukandagedon/paintings-from-10-different-popular-artists
+
+- Blur Techniques Definition | Encord. (n.d.). https://encord.com/glossary/blur-techniques definition/#:~:text=Blur%20in%20computer%20vision%20refers,incorrect%20focus%2C%20or%20optical%20limitations.
   
 - Plants Can Dance | EarthDate. (n.d.). https://www.earthdate.org/episodes/plants-can-dance
   
