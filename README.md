@@ -55,8 +55,8 @@ Include code, images, and results generated during your project.
 
 - Blur Techniques Definition | Encord. (n.d.). https://encord.com/glossary/blur-techniques definition/#:~:text=Blur%20in%20computer%20vision%20refers,incorrect%20focus%2C%20or%20optical%20limitations.
 
-# VIII. Member
-* Adan, Carl Kenneth
+# VIII. Pair
+* Adan, Carl Kenneth A.
 * Rayos, Christine Mae C. 
 
   
