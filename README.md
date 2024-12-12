@@ -18,7 +18,12 @@ Summarize your findings, challenges, and outcomes.
 # V. Additional Materials
 Include code, images, and results generated during your project.
 
-# VI. Reference
+# VI. Video Presentaion
+
+- Part 1 - 16 OpenCV Projects
+- Part 2 - Applying Image Blurring Techniques
+
+# VII. Reference
 
 - DATASETS: Paintings from 10 different popular artists. (2021, April 11). Kaggle. https://www.kaggle.com/datasets/binukandagedon/paintings-from-10-different-popular-artists
 
