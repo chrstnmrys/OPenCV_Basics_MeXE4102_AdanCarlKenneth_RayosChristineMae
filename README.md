@@ -1,4 +1,5 @@
-# <p align="center">***PART 2: Applying Image Blurring Techniques***</p>
+
+# <p align="center">**$$ {\color{red}Applying \space \color{red}Image \space \color{red}Blurring \space \color{red}Techniques} $$**</p>
 
 # I. Introduction
 *<div align="justify">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Image blurring* is a fundamental technique in computer vision used to soften image details, reduce noise, and create artistic effects. It plays a crucial role in preprocessing for tasks like object detection, segmentation, and feature extraction. For this project, the focus is on applying advanced blurring techniques to high-resolution images of Da Vinci paintings. These techniques aim to achieve creative bokeh effects that highlight certain aspects of the paintings while maintaining their artistic integrity. By exploring the application of Gaussian and median blurring methods, this project provides insights into both the aesthetic possibilities and computational implications of these techniques.</div> 
