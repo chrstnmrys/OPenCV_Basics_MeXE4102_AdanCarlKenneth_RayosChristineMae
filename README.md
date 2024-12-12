@@ -21,6 +21,7 @@ Include code, images, and results generated during your project.
 # VI. Video Presentaion
 
 - Part 1 - 16 OpenCV Projects
+  * https://youtu.be/5jP5kcJGGaQ
 - Part 2 - Applying Image Blurring Techniques
 
 # VII. Reference
