@@ -27,10 +27,8 @@ Include code, images, and results generated during your project.
 
 # VII. Reference
 
-- DATASETS: Paintings from 10 different popular artists. (2021, April 11). Kaggle. https://www.kaggle.com/datasets/binukandagedon/paintings-from-10-different-popular-artists
+## Part 1
 
-- Blur Techniques Definition | Encord. (n.d.). https://encord.com/glossary/blur-techniques definition/#:~:text=Blur%20in%20computer%20vision%20refers,incorrect%20focus%2C%20or%20optical%20limitations.
-  
 - Plants Can Dance | EarthDate. (n.d.). https://www.earthdate.org/episodes/plants-can-dance
   
 - Smartspacer. (n.d.). Squiggle doodle vector. Vecteezy. https://www.vecteezy.com/free-vector/doodle-shapes
@@ -50,4 +48,15 @@ Include code, images, and results generated during your project.
 - https://www.facebook.com/photo.php?fbid=798368288986105&id=100064388244161&set=a.552654096890860
   
 - Restrepo, M. L. (2023, December 12). The murderous creature you live with is a murderous creature, a study confirms. NPR. https://www.npr.org/2023/12/12/1218895581/cats-research-study-environment
+
+
+## Part 2
+- DATASETS: Paintings from 10 different popular artists. (2021, April 11). Kaggle. https://www.kaggle.com/datasets/binukandagedon/paintings-from-10-different-popular-artists
+
+- Blur Techniques Definition | Encord. (n.d.). https://encord.com/glossary/blur-techniques definition/#:~:text=Blur%20in%20computer%20vision%20refers,incorrect%20focus%2C%20or%20optical%20limitations.
+
+# VIII. Member
+* Adan, Carl Kenneth
+* Rayos, Christine Mae C. 
+
   
