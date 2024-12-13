@@ -12,6 +12,27 @@
 Provide a step-by-step explanation of your methodology in bulleted form.
 Avoid paragraphs; focus on clarity and conciseness.
 
+Import Necessary Libraries
+- Load essential Python Libraries
+
+Da Vinci Paintings Image Folder
+- Directory containing Da Vinci painting images
+
+Load the Images
+- List and ensure the only successfully loaded images are added to the images list.
+- Load Images from dataset folder
+
+Process the Images
+- Apply OpenCV blurring techniques to every image
+
+Show a List of Image Filenames and Specify the filename of the image to process
+- Check if the target image exists in the folder
+
+Display different blurring technique on the table (Original Image, Gaussian Blur, Median Blur)
+- Original Image: Show the original painting image from the dataset.
+- Gaussian Blur: Apply gaussian blur to the image and show the result
+- Median Blur: Apply median blur to the image and show the result
+
 # IV. Conclusion
 Summarize your findings, challenges, and outcomes.
 
