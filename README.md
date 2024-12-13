@@ -23,7 +23,7 @@ Load the Images
 Process the Images
 - Apply OpenCV blurring techniques to every image
 
-Show a List of Image Filenames and Specify the filename of the image to process
+Specify the filename of the image to process
 - Check if the target image exists in the folder
 
 Display different blurring technique on the table (Original Image, Gaussian Blur, Median Blur)
