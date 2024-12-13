@@ -42,6 +42,24 @@ The approach has been completed and is user-friendly as it provides a starting p
 # V. Additional Materials
 Include code, images, and results generated during your project.
 
+Codes
+![image](https://github.com/user-attachments/assets/65a6b14f-1dbc-424e-aff2-9820a2f100da)
+
+![image](https://github.com/user-attachments/assets/cfbe64c1-997d-48e4-ac37-e5dee85f6e70)
+
+![image](https://github.com/user-attachments/assets/d8da6b81-d92c-49bd-8009-a48e1ad1d271)
+
+![image](https://github.com/user-attachments/assets/e32ec70a-e396-4680-b68f-25a519bc3610)
+
+Generated images
+
+![image](https://github.com/user-attachments/assets/37ee4e0e-6539-4e35-b5f7-1721100812cc)
+
+![image](https://github.com/user-attachments/assets/ca082596-4765-4b2a-836e-ca42b25320f9)
+
+![image](https://github.com/user-attachments/assets/5c8c21e7-fbfe-4944-a5d7-6c69f9c4c908)
+
+
 # VI. Video Presentaion
 
 - Part 1 - 16 OpenCV Projects
