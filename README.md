@@ -32,7 +32,12 @@ Display different blurring technique on the table (Original Image, Gaussian Blur
 - Median Blur: Apply median blur to the image and show the result
 
 # IV. Conclusion
-Summarize your findings, challenges, and outcomes.
+
+This project has successfully implemented an automatic installation for applying and exhibiting different blurring techniques in images. With respect to processing a single image or all images in a particular folder, the application brings flexibility and scalability to different use cases. The results illustrate the efficiency of blur for changing detailed features of images, which could be effectively applied in areas such as privacy masking, noise reduction, and other artistic effects.
+
+Since we used vscodes, we had to make adjustments because the provided video guide demonstrated openCv blurring techniques using Google Notebook. And because the video only demonstrated blurring techniques in a single image, we also encountered difficulties when dealing with a dataset. 
+
+The approach has been completed and is user-friendly as it provides a starting point for improvements required in the future. The project points the very useful Python tools such as Matplotlib and OpenCV for image processing jobs and stresses the importance of automation in the field.
 
 # V. Additional Materials
 Include code, images, and results generated during your project.
