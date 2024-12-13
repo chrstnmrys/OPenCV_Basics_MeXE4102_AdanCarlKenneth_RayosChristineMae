@@ -9,8 +9,6 @@
 
 
 # III. Project Methods
-Provide a step-by-step explanation of your methodology in bulleted form.
-Avoid paragraphs; focus on clarity and conciseness.
 
 Import Necessary Libraries
 - Load essential Python Libraries
