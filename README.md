@@ -66,6 +66,7 @@ Generated images
   * https://youtu.be/5jP5kcJGGaQ
     
 - Part 2 - Applying Image Blurring Techniques
+  * https://youtu.be/5cmkxGWKQWU
 
 # VII. Reference
 
